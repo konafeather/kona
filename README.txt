@@ -2,7 +2,7 @@ Kona is a programming language in active development. So far, the compiler can o
 
 Here is an example of the fibbonaci sequence in Kona:
 
-_________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
 
 # this is a single line comment
 # "|" are lines in a block that would appear in an IDE, not actual characters to be typed
@@ -21,5 +21,5 @@ echo "Hello world"                     # built-in functions don't require a colo
 val n1, _ = [50, 100]                  # type inference and array destructuring
 echo fibonacci_recursive: n1           # Nested function calls. User defined functions require a colon.
 
-_________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
 
